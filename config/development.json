@@ -1,0 +1,11 @@
+{
+    "port": 1001,
+    "barcode": {
+        "scale": 3,
+        "height": 10
+    },
+    "ssl": {
+        "pfx": "./certificates/sslpfxfile.pfx",
+        "passphrase": "password"
+    }
+}
